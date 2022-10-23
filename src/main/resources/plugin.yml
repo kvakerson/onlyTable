@@ -1,0 +1,4 @@
+name: onlyTable
+version: '${project.version}'
+main: Table.Kvakerson
+api-version: 1.19
